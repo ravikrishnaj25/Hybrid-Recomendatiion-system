@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Hybrid+Skincare+Recommendation+System; Built+with+Machine+Learning+and+NLP;Fast+%7C+Scalable+%7C+Personalized"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Hybrid+Skincare+Recommendation+System;Built+with+Machine+Learning+and+NLP;Fast+%7C+Scalable+%7C+Personalized"/> 
 
 </div>
 
